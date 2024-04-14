@@ -1,0 +1,21 @@
+# Spring Boot default
+/target/
+/src/main/resources/application.yml
+
+# IDE
+.idea/
+*.iml
+
+# Maven
+*.jar
+*.war
+*.ear
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
